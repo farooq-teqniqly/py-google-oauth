@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f56d6b1a-e964-4e06-8eb6-8402b44c1040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/py-google-oauth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskgoogleoauth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskgoogleoauth/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskgoogleoauth/googleoauthprovider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskgoogleoauth/oauthconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_googleoauthprovider.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c9uN3dvuxwWGPQcKWUh4JdrSEU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56d6b1a-e964-4e06-8eb6-8402b44c1040" name="Default Changelist" comment="" />
+      <created>1589953086463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589953086463</updated>
+      <workItem from="1589953095681" duration="4107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="922" y="478" width="716" height="677" key="EditFileWatcherDialog" timestamp="1589953272087">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="922" y="478" width="716" height="677" key="EditFileWatcherDialog/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1589953272087" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1589953272886">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/-3840.0.1536.846/0.0.2560.1409@0.0.2560.1409" timestamp="1589953272886" />
+  </component>
+</project>
